@@ -11,29 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "个人简介"
-  pageRef = "profile"
-  weight = 1
+  name = "关于我"
+  pageRef = "about"
+  weight = 5
 
 [[main]]
   name = "项目"
   pageRef = "projects"
-  weight = 2
+  weight = 1
 
 [[main]]
   name = "博客"
   pageRef = "blog"
-  weight = 3
+  weight = 2
 
 [[main]]
-  name = "新闻通讯"
+  name = "周刊"
   pageRef = "newsletter"
-  weight = 4
+  weight = 3
 
 [[main]]
   name = "教程"
   pageRef = "tutorial"
-  weight = 5
+  weight = 4
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -45,6 +45,6 @@
    weight = 10
 
  [[footer]]
-   name = "作者"
-   pageRef = "authors"
+   name = "关于我"
+   pageRef = "about"
    weight = 20

@@ -8,6 +8,11 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/authors/"
     />
@@ -15,11 +20,6 @@
       rel="alternate"
       hreflang="ja"
       href="http://localhost:1313/ja/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -33,6 +33,11 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/"
     />
@@ -40,11 +45,6 @@
       rel="alternate"
       hreflang="ja"
       href="http://localhost:1313/ja/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
@@ -58,6 +58,11 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/categories/"
     />
@@ -65,11 +70,6 @@
       rel="alternate"
       hreflang="ja"
       href="http://localhost:1313/ja/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -83,6 +83,11 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/series/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/series/"
     />
@@ -90,11 +95,6 @@
       rel="alternate"
       hreflang="ja"
       href="http://localhost:1313/ja/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -108,6 +108,11 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/tags/"
     />
@@ -115,11 +120,6 @@
       rel="alternate"
       hreflang="ja"
       href="http://localhost:1313/ja/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/tags/"
     />
     <xhtml:link
       rel="alternate"

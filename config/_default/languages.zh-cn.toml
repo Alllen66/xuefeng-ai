@@ -1,6 +1,6 @@
 languageCode = "zh-cn"
 languageName = "简体中文"
-weight = 4
+weight = 1
 title = "学锋 xuefeng"
 
 [params]
@@ -8,15 +8,21 @@ title = "学锋 xuefeng"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/avatar_capy_logo.png"
   description = "一个强大、轻量级的 Hugo 主题。"
 
 [params.author]
-  name = "Blowfish"
-  image = "img/blowfish_logo.png"
-  headline = "一个强大、轻量级的 Hugo 主题。"
-  bio = "一个强大、轻量级的 Hugo 主题。"
+  name = "学锋 xuefeng"
+  image = "img/avatar_profile_capy.png"
+  headline = "用产品思维解锁 AI，用 AI 再造产品。欢迎一起冲浪 🚤"
+  bio = "用产品思维解锁 AI，用 AI 再造产品。欢迎一起冲浪 🚤"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { x-twitter = "https://x.com/ailen_xuefeng" },
+    { github = "https://github.com/Alllen66" },
+    { youtube = "https://www.youtube.com/@xuefeng_ai" },
+    { bilibili = "https://space.bilibili.com/487999630" },
+    { xiaohongshu = "https://www.xiaohongshu.com/user/profile/5791000e50c4b420d97809da" },
+    { wechat = "/wechat/" },
+    { gongzhonghao = "/gongzhonghao/" },
+    { jike = "/jike/" },
   ]
