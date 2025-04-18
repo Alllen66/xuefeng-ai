@@ -1,7 +1,9 @@
 ---
 title: "Obsidian插件-声音转文字"
+date: 2025-04-04
 description: "Obsidian插件-声音转文字"
 tags: ["Obsidian插件","AI编程","OpenAI API"]
+showComments: true
 ---
 # Obsidian插件-声音转文字
 

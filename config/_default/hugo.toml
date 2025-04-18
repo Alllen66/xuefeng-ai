@@ -7,6 +7,9 @@ baseURL = "https://localhost:1313"
 defaultContentLanguage = "zh-cn"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
+[services]
+  [services.disqus]
+    shortname = 'xuefeng-ai'
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
