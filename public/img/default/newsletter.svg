@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="600" version="1.1" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+ <rect width="1200" height="600" fill="#f0f9ff"/>
+ <g transform="translate(600,300)">
+  <path d="M-100,-60 L0,-20 L100,-60 L100,60 L-100,60 Z" fill="#0284c7" fill-opacity=".1"/>
+  <path d="M-100,-60 L0,-20 L100,-60" fill="none" stroke="#0284c7" stroke-width="4" stroke-opacity=".2"/>
+  <path d="M-80,-40 L0,-5 L80,-40" fill="none" stroke="#0284c7" stroke-width="4" stroke-opacity=".15"/>
+ </g>
+ <text x="600" y="315" text-anchor="middle" fill="#0284c7" font-family="system-ui, sans-serif" font-size="24">通讯快报</text>
+</svg> 

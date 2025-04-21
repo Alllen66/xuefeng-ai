@@ -1,0 +1,106 @@
+{{ define "main" }}
+  {{/* Profile */}}
+  {{ partial "home/profile" . }}
+
+  <div class="space-y-16">
+    {{/* Projects Section - Card View */}}
+    <section class="pt-8">
+      <div class="flex justify-between items-center mb-6">
+        <h2 class="text-2xl font-bold">项目展示</h2>
+        <a href="/projects" class="text-sm text-primary-700 hover:text-primary-900 hover:underline">查看全部 →</a>
+      </div>
+      <div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+        {{ range first 6 (where .Site.RegularPages "Section" "projects") }}
+          {{ partial "article-link/card" . }}
+        {{ end }}
+      </div>
+    </section>
+
+    {{/* Blog Section - List View */}}
+    <section class="pt-8">
+      <div class="flex justify-between items-center mb-6">
+        <h2 class="text-2xl font-bold">博客</h2>
+        <a href="/blog" class="text-sm text-primary-700 hover:text-primary-900 hover:underline">查看全部 →</a>
+      </div>
+      <div class="flex flex-col" style="gap:1.5rem;">
+        {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
+          <article class="post-entry bg-white border border-neutral-200 dark:border-neutral-700 rounded-xl shadow-sm hover:shadow-lg transition-shadow px-7 py-6 relative" style="padding-left:2.5rem;">
+            <header class="mb-1">
+              <h2 class="text-xl font-bold text-neutral-900 dark:text-neutral mb-1">
+                <a href="{{ .RelPermalink }}" class="hover:underline">{{ .Title | emojify }}</a>
+              </h2>
+            </header>
+            {{ $desc := .Params.description | default .Summary }}
+            {{ if $desc }}
+            <div class="text-base text-neutral-600 dark:text-neutral-400 mb-2">
+              {{ $desc | plainify }}
+            </div>
+            {{ end }}
+            <footer class="text-sm text-neutral-500 dark:text-neutral-400">
+              {{ partial "article-meta/basic.html" . }}
+            </footer>
+            <a class="absolute inset-0 z-10" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+
+    {{/* Tutorials Section */}}
+    <section class="pt-8">
+      <div class="flex justify-between items-center mb-6">
+        <h2 class="text-2xl font-bold">周刊</h2>
+        <a href="/newsletter" class="text-sm text-primary-700 hover:text-primary-900 hover:underline">查看全部 →</a>
+      </div>
+      <div class="flex flex-col" style="gap:1.5rem;">
+        {{ range first 4 (where .Site.RegularPages "Section" "tutorials") }}
+          <article class="post-entry bg-white border border-neutral-200 dark:border-neutral-700 rounded-xl shadow-sm hover:shadow-lg transition-shadow px-7 py-6 relative" style="padding-left:2.5rem;">
+            <header class="mb-1">
+              <h2 class="text-xl font-bold text-neutral-900 dark:text-neutral mb-1">
+                <a href="{{ .RelPermalink }}" class="hover:underline">{{ .Title | emojify }}</a>
+              </h2>
+            </header>
+            {{ $desc := .Params.description | default .Summary }}
+            {{ if $desc }}
+            <div class="text-base text-neutral-600 dark:text-neutral-400 mb-2">
+              {{ $desc | plainify }}
+            </div>
+            {{ end }}
+            <footer class="text-sm text-neutral-500 dark:text-neutral-400">
+              {{ partial "article-meta/basic.html" . }}
+            </footer>
+            <a class="absolute inset-0 z-10" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+
+    {{/* Newsletter Section */}}
+    <section class="pt-8">
+      <div class="flex justify-between items-center mb-6">
+        <h2 class="text-2xl font-bold">教程</h2>
+        <a href="/tutorials" class="text-sm text-primary-700 hover:text-primary-900 hover:underline">查看全部 →</a>
+      </div>
+      <div class="flex flex-col" style="gap:1.5rem;">
+        {{ range first 4 (where .Site.RegularPages "Section" "newsletter") }}
+          <article class="post-entry bg-white border border-neutral-200 dark:border-neutral-700 rounded-xl shadow-sm hover:shadow-lg transition-shadow px-7 py-6 relative" style="padding-left:2.5rem;">
+            <header class="mb-1">
+              <h2 class="text-xl font-bold text-neutral-900 dark:text-neutral mb-1">
+                <a href="{{ .RelPermalink }}" class="hover:underline">{{ .Title | emojify }}</a>
+              </h2>
+            </header>
+            {{ $desc := .Params.description | default .Summary }}
+            {{ if $desc }}
+            <div class="text-base text-neutral-600 dark:text-neutral-400 mb-2">
+              {{ $desc | plainify }}
+            </div>
+            {{ end }}
+            <footer class="text-sm text-neutral-500 dark:text-neutral-400">
+              {{ partial "article-meta/basic.html" . }}
+            </footer>
+            <a class="absolute inset-0 z-10" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+  </div>
+{{ end }} 

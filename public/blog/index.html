@@ -11,7 +11,7 @@
   <title>博客 &middot; 学锋 xuefeng</title>
   <meta name="title" content="博客 &middot; 学锋 xuefeng" />
   
-  <meta name="description" content="我的技术文章与随笔" />
+  <meta name="description" content="记录我的学习、思考与成长，公众号“体验官学锋”" />
   
   
   
@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6c578505c963896aa1ff93059a2b872a69d9d8b2b993ae84fcb0ba24c31c98574101ee2a1c9219e980ec5ace4aea6b7d4869900762062da4ceb625068f862edb.css"
-    integrity="sha512-bFeFBcljiWqh/5MFmiuHKmnZ2LK5k66E/LC6JMMcmFdBAe4qHJIZ6YDsWs5K6mt9SGmQB2IGLaTOtiUGj4Yu2w==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.edc19b8451f7473aa20792d10d3f13d9ba7fd8d4fdde6e032fa36b5968c0e14b5adcb428767991622f5ae4544b5fec9f866e25fc85bafc251863104046a8345b.css"
+    integrity="sha512-7cGbhFH3RzqiB5LRDT8T2bp/2NT93m4DL6NrWWjA4Uta3LQodnmRYi9a5FRLX&#43;yfhm4l/IW6/CUYYxBARqg0Ww==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -72,14 +72,14 @@
   <meta property="og:url" content="http://localhost:1313/blog/">
   <meta property="og:site_name" content="学锋 xuefeng">
   <meta property="og:title" content="博客">
-  <meta property="og:description" content="我的技术文章与随笔">
+  <meta property="og:description" content="记录我的学习、思考与成长，公众号“体验官学锋”">
   <meta property="og:locale" content="zh_cn">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="博客">
-  <meta name="twitter:description" content="我的技术文章与随笔">
+  <meta name="twitter:description" content="记录我的学习、思考与成长，公众号“体验官学锋”">
 
   
   
@@ -148,6 +148,29 @@
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyAhahnTb3rbKghqzVCh1zShS1m7ddTmEPw",
+      authDomain: "AIzaSyAhahnTb3rbKghqzVCh1zShS1m7ddTmEPw",
+      projectId: "xuefeng-ai",
+      storageBucket: "xuefeng-ai.firebasestorage.app",
+      messagingSenderId: "179558147905",
+      appId: "1:179558147905:web:a2e7a1dec094565a5823c0",
+      measurementId: "G-RBFF8DTQD8"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>
@@ -493,26 +516,31 @@
     <main id="main-content" class="grow">
       
 
-
-
-
-
-
- 
-  
-   
-  
- 
-
-        
-            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom" style="background-image:url(/img/background.svg);"></div>
-        
-    
- <header>
-  
+<header class="page-header">
   <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">博客</h1>
-  <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
-    
+  <div class="post-description text-lg text-neutral-600 dark:text-neutral-400 mt-2 mb-6">
+    记录我的学习、思考与成长，公众号“体验官学锋”
+  </div>
+</header>
+
+
+
+<section class="flex flex-col" style="gap:1.5rem;">
+  
+    <article class="post-entry bg-white border border-neutral-200 dark:border-neutral-700 rounded-xl shadow-sm hover:shadow-lg transition-shadow px-7 py-6 relative" style="padding-left:2.5rem;">
+      <header class="mb-1">
+        <h2 class="text-xl font-bold text-neutral-900 dark:text-neutral mb-1">
+          <a href="/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%AD/" class="hover:underline">我的国际化往事（中）</a>
+        </h2>
+      </header>
+      
+      
+      <div class="text-base text-neutral-600 dark:text-neutral-400 mb-2">
+        在巴西的国际化旅程中，鲁班七号经历了文化冲击与职场变迁，逐渐领悟到改变自我比改变世界更为重要。
+      </div>
+      
+      <footer class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -524,7 +552,25 @@
 
 
 
+  
 
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
 
 
 
@@ -537,48 +583,247 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
+  <time datetime="2025-04-21T00:00:00&#43;00:00">2025-04-21</time><span class="px-2 text-primary-500">&middot;</span><span>19 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span><span class="px-2 text-primary-500">&middot;</span><span>
+  
+  
+    
+    
+      
+      
+        
+        
+      
+      
+    
+  
+  <span id="views_blog/我的国际化往事（中）/index.md" class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400" title="views">loading</span>
+  <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+<path fill="currentColor" d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg>
+  </span>
+
+</span>
+</span><span class="px-2 text-primary-500">&middot;</span><span>
+  
+  
+    
+    
+      
+      
+        
+        
+      
+      
+    
+  
+  <span id="likes_blog/我的国际化往事（中）/index.md"
+    class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400"
+    title="likes">loading</span>
+  <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M47.6 300.4L228.3 469.1c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9L464.4 300.4c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141C347 36.5 300.6 51.4 268 84L256 96 244 84c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"/></svg>
+  </span>
+
+</span>
+</span>
+  
+
+  
+  
 </div>
 
 
-  </div>
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    国际化往事
+  </span>
+</span>
+  </span>
+  
+  
+  
+  
+</div>
+
+
+
+
+      </footer>
+      <a class="absolute inset-0 z-10" aria-label="post link to 我的国际化往事（中）" href="/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%AD/"></a>
+    </article>
+  
+    <article class="post-entry bg-white border border-neutral-200 dark:border-neutral-700 rounded-xl shadow-sm hover:shadow-lg transition-shadow px-7 py-6 relative" style="padding-left:2.5rem;">
+      <header class="mb-1">
+        <h2 class="text-xl font-bold text-neutral-900 dark:text-neutral mb-1">
+          <a href="/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%8A/" class="hover:underline">我的国际化往事（上）</a>
+        </h2>
+      </header>
+      
+      
+      <div class="text-base text-neutral-600 dark:text-neutral-400 mb-2">
+        2017年，鲁班七号随滴滴国际化团队踏上南美征程，面对文化冲击与职场挑战，逐步成长为国际化先锋。
+      </div>
+      
+      <footer class="text-sm text-neutral-500 dark:text-neutral-400">
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2025-04-19T00:00:00&#43;00:00">2025-04-19</time><span class="px-2 text-primary-500">&middot;</span><span>21 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
     
     
       
       
+        
+        
+      
+      
     
-  <script>
-    var oid = "views_blog\/_index.md"
-    var oid_likes = "likes_blog\/_index.md"
-  </script>
+  
+  <span id="views_blog/我的国际化往事上.md" class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400" title="views">loading</span>
+  <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+<path fill="currentColor" d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg>
+  </span>
+
+</span>
+</span><span class="px-2 text-primary-500">&middot;</span><span>
   
   
-  <script type="text/javascript" src="/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
-  
-  </header>
-  <section class="mt-0 prose flex max-w-full flex-col dark:prose-invert lg:flex-row">
     
-    <div class="min-w-0 min-h-0 max-w-prose">
-      <p>记录我的学习、思考与成长。</p>
-
-    </div>
-
-
-
-
-  </section>
-  
-  <section class="mt-10 prose dark:prose-invert">
-    <p class="py-8 border-t">
-      <em>这里还没有任何文章可以列出。</em>
-    </p>
-  </section>
-  
-
     
+      
+      
+        
+        
+      
+      
+    
+  
+  <span id="likes_blog/我的国际化往事上.md"
+    class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400"
+    title="likes">loading</span>
+  <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M47.6 300.4L228.3 469.1c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9L464.4 300.4c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141C347 36.5 300.6 51.4 268 84L256 96 244 84c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"/></svg>
+  </span>
+
+</span>
+</span>
+  
 
   
+  
+</div>
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    国际化往事
+  </span>
+</span>
+  </span>
+  
+  
+  
+  
+</div>
+
+
+
+
+      </footer>
+      <a class="absolute inset-0 z-10" aria-label="post link to 我的国际化往事（上）" href="/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%8A/"></a>
+    </article>
+  
+</section>
+
+
+
+
       
     </main><footer id="site-footer" class="py-10 print:hidden">
   

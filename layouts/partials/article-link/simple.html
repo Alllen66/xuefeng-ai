@@ -1,0 +1,16 @@
+{{ $link := .RelPermalink }}
+<article class="border-b border-neutral-200 dark:border-neutral-700 pb-3">
+  <a class="flex items-center space-x-4" href="{{ $link }}">
+    <div class="flex-1 min-w-0">
+      <h3 class="text-lg font-semibold text-neutral-800 dark:text-neutral-100">
+        {{ .Title }}
+      </h3>
+      <p class="text-sm text-neutral-600 dark:text-neutral-400 line-clamp-2">
+        {{ .Summary | truncate 120 }}
+      </p>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      </div>
+    </div>
+  </a>
+</article> 

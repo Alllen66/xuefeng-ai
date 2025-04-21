@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6c578505c963896aa1ff93059a2b872a69d9d8b2b993ae84fcb0ba24c31c98574101ee2a1c9219e980ec5ace4aea6b7d4869900762062da4ceb625068f862edb.css"
-    integrity="sha512-bFeFBcljiWqh/5MFmiuHKmnZ2LK5k66E/LC6JMMcmFdBAe4qHJIZ6YDsWs5K6mt9SGmQB2IGLaTOtiUGj4Yu2w==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.edc19b8451f7473aa20792d10d3f13d9ba7fd8d4fdde6e032fa36b5968c0e14b5adcb428767991622f5ae4544b5fec9f866e25fc85bafc251863104046a8345b.css"
+    integrity="sha512-7cGbhFH3RzqiB5LRDT8T2bp/2NT93m4DL6NrWWjA4Uta3LQodnmRYi9a5FRLX&#43;yfhm4l/IW6/CUYYxBARqg0Ww==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -148,6 +148,29 @@
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyAhahnTb3rbKghqzVCh1zShS1m7ddTmEPw",
+      authDomain: "AIzaSyAhahnTb3rbKghqzVCh1zShS1m7ddTmEPw",
+      projectId: "xuefeng-ai",
+      storageBucket: "xuefeng-ai.firebasestorage.app",
+      messagingSenderId: "179558147905",
+      appId: "1:179558147905:web:a2e7a1dec094565a5823c0",
+      measurementId: "G-RBFF8DTQD8"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>
@@ -494,20 +517,6 @@
       
 
 
-
-
-
-
- 
-  
-   
-  
- 
-
-        
-            <div class="w-full h-36 md:h-56 lg:h-72 single_hero_basic nozoom" style="background-image:url(/img/background.svg);"></div>
-        
-    
  <header>
   
   <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">我的项目</h1>
@@ -563,10 +572,6 @@
       <p>这里会展示我的开源项目、个人作品和协作项目。</p>
 
     </div>
-
-
-
-
   </section>
   
 
@@ -579,13 +584,9 @@
     
 
       
-
-        
-        <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+      <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 ">
         
         
-          
-          
 
   <a href="/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/" class="min-w-full">
     
@@ -758,8 +759,8 @@
     </div>
   </a>
 
-          
-          
+        
+        
 
   <a href="/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/" class="min-w-full">
     
@@ -940,20 +941,13 @@
     </div>
   </a>
 
-          
         
-        </section>
-        
-
+      </section>
+      
     
-
-    
-
   
 
-    
 
-  
       
     </main><footer id="site-footer" class="py-10 print:hidden">
   

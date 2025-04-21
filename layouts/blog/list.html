@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<header class="page-header">
+  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description text-lg text-neutral-600 dark:text-neutral-400 mt-2 mb-6">
+    {{ .Description | markdownify }}
+  </div>
+  {{- end }}
+</header>
+
+{{ $paginator := .Paginate .Pages }}
+
+<section class="flex flex-col" style="gap:1.5rem;">
+  {{ range $paginator.Pages }}
+    <article class="post-entry bg-white border border-neutral-200 dark:border-neutral-700 rounded-xl shadow-sm hover:shadow-lg transition-shadow px-7 py-6 relative" style="padding-left:2.5rem;">
+      <header class="mb-1">
+        <h2 class="text-xl font-bold text-neutral-900 dark:text-neutral mb-1">
+          <a href="{{ .RelPermalink }}" class="hover:underline">{{ .Title | emojify }}</a>
+          {{- if .Draft }}
+            <span class="ml-2 text-xs text-yellow-500 align-top" title="Draft">[Draft]</span>
+          {{- end }}
+        </h2>
+      </header>
+      {{ $desc := .Params.description | default .Summary }}
+      {{ if $desc }}
+      <div class="text-base text-neutral-600 dark:text-neutral-400 mb-2">
+        {{ $desc | plainify }}
+      </div>
+      {{ end }}
+      <footer class="text-sm text-neutral-500 dark:text-neutral-400">
+        {{ partial "article-meta/basic.html" . }}
+      </footer>
+      <a class="absolute inset-0 z-10" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+    </article>
+  {{ end }}
+</section>
+
+{{ if gt $paginator.TotalPages 1 }}
+<footer class="page-footer mt-8">
+  <nav class="pagination flex justify-between">
+    {{ if $paginator.HasPrev }}
+      <a class="prev text-primary-600 hover:underline" href="{{ $paginator.Prev.URL | absURL }}">« 上一页</a>
+    {{ end }}
+    {{ if $paginator.HasNext }}
+      <a class="next text-primary-600 hover:underline" href="{{ $paginator.Next.URL | absURL }}">下一页 »</a>
+    {{ end }}
+  </nav>
+</footer>
+{{ end }}
+
+{{ end }}

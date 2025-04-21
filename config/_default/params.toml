@@ -7,7 +7,7 @@
 
 logo = "/avatar_logo_transparent.png"
 
-colorScheme = "autumn"
+colorScheme = "avocado"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
@@ -23,8 +23,6 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/background.svg"
-defaultFeaturedImage = "/img/featured.svg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -41,12 +39,12 @@ smartTOCHideUnfocusedChildren = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
-  showMoreLink = true
-  showMoreLinkDest = "/" # 跳转到所有内容页
+  showRecentItems = 1
+  showMoreLink = false
+  showMoreLinkDest = "" # 跳转到所有内容页
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -73,7 +71,7 @@ smartTOCHideUnfocusedChildren = false
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showRelatedContent = true
+  showRelatedContent = false
   relatedContentLimit = 3
   showTaxonomies = true 
   showAuthorsBadges = false 
@@ -83,7 +81,7 @@ smartTOCHideUnfocusedChildren = false
   showComments = true
 
 [list]
-  showHero = true
+  showHero = false
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   layoutBackgroundHeaderSpace = false
@@ -94,7 +92,7 @@ smartTOCHideUnfocusedChildren = false
   showTableOfContents = true
   showCards = true
   orderByWeight = true
-  groupByYear = false
+  groupByYear = true
   cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
@@ -124,13 +122,13 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
   
 [firebase]
-  #apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
-  #authDomain = "blowfish-21fff.firebaseapp.com"
-  #projectId = "blowfish-21fff"
-  #storageBucket = "blowfish-21fff.appspot.com"
-  #messagingSenderId = "60108104191"
-  #appId = "1:60108104191:web:039842ebe1370698b487ca"
-  #measurementId = "G-PEDMYR1V0K"
+  apiKey = "AIzaSyAhahnTb3rbKghqzVCh1zShS1m7ddTmEPw"
+  authDomain = "xuefeng-ai.firebaseapp.com"
+  projectId = "xuefeng-ai"
+  storageBucket = "xuefeng-ai.firebasestorage.app"
+  messagingSenderId = "179558147905"
+  appId = "1:179558147905:web:a2e7a1dec094565a5823c0"
+  measurementId = "G-RBFF8DTQD8"
 
 [fathomAnalytics]
   # site = "ABC12345"
