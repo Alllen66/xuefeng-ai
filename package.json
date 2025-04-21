@@ -1,8 +1,13 @@
 {
+  "name": "xuefeng-ai",
+  "version": "1.0.0",
+  "description": "Personal website built with Hugo",
   "scripts": {
-    "vercel-build": "npx hugo --gc --minify"
+    "dev": "hugo server -D",
+    "build": "hugo --gc --minify",
+    "vercel-build": "git submodule update --init --recursive && hugo --gc --minify"
   },
   "dependencies": {
-    "firebase": "^11.6.0"
+    "hugo-bin": "^0.121.1"
   }
 }
