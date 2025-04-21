@@ -6,5 +6,10 @@ list:
   showViews: false
   heroStyle: background
 ---
-
-这里会展示我的开源项目、个人作品和协作项目。
+{{< typeit 
+  speed=50
+  breakLines=false
+  loop=false
+>}}
+这里会展示我的开源项目、个人作品和协作项目。 
+{{< /typeit >}}
