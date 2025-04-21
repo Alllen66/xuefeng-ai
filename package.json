@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "vercel-build": "hugo --gc --minify"
+    "vercel-build": "npx hugo --gc --minify"
   },
   "dependencies": {
     "firebase": "^11.6.0"
