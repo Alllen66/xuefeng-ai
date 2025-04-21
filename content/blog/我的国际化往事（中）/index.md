@@ -5,8 +5,10 @@ description: "在巴西的国际化旅程中，鲁班七号经历了文化冲击
 tags: ["国际化往事"]
 showTableOfContents: false
 showTaxonomies: true
-series: ["blog"]
+series: ["国际化往事"]
 series_order: 2
+featured: true
+featured_image: "content/blog/我的国际化往事（中）/featured.png"
 ---
 01
 

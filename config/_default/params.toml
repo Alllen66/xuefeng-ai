@@ -75,7 +75,7 @@ smartTOCHideUnfocusedChildren = false
   relatedContentLimit = 3
   showTaxonomies = true 
   showAuthorsBadges = false 
-  showWordCount = true
+  showWordCount = false
   sharingLinks = [ "twitter", "reddit", "whatsapp", "telegram","facebook", "email"]
   showZenMode = true
   showComments = true
@@ -146,7 +146,7 @@ smartTOCHideUnfocusedChildren = false
   # enableTrackEvent = false
 
 [buymeacoffee]
-  identifier = "nunocoracao"
+  identifier = "xuefeng_ai"
   globalWidget = true
   globalWidgetMessage = ""
   globalWidgetColor = "#FFDD00"

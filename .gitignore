@@ -1,0 +1,17 @@
+# Hugo build output
+/public
+/resources
+/node_modules
+/.hugo_build.lock
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Others
+netlify.toml
