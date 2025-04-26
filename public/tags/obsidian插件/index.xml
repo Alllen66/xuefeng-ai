@@ -1,68 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Obsidian插件 on 学锋 xuefeng</title><link>https://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</link><description>Recent content in Obsidian插件 on 学锋 xuefeng</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 学锋 xuefeng</copyright><lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml"/><item><title>Obsidian插件-声音转文字</title><link>https://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</guid><description>&lt;h1 class="relative group">Obsidian插件-声音转文字
-&lt;div id="obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h1>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>产品名称(中)&lt;/th>
-&lt;th>语音转文字&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>产品名称(En)&lt;/td>
-&lt;td>Voice2Text&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>产品简介&lt;/td>
-&lt;td>Voice2Text是一款接入OpenAI 模型的语音转文字插件，支持录音及暂停、语音转文字、录音文件保存等。与 Obsidian 集成，帮助用户记录方便通过录音转文字记录日记等。&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>产品类型&lt;/td>
-&lt;td>Obsidian 插件&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Github&lt;/td>
-&lt;td>&lt;a href="https://github.com/Alllen66/obsidian-voice2text" target="_blank">https://github.com/Alllen66/obsidian-voice2text&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>产品安装&lt;/td>
-&lt;td>Obsidian &amp;gt; 点击浏览社区插件 &amp;gt; 搜索 &amp;ldquo;Voice to Text&amp;rdquo;&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>AI 编程软件清单&lt;br>&lt;/td>
-&lt;td>Cursor&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>开发时长&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/td>
-&lt;td>1.5 天&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>开发日期&lt;/td>
-&lt;td>2025/04/04&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h1 class="relative group">项目背景
-&lt;div id="%E9%A1%B9%E7%9B%AE%E8%83%8C%E6%99%AF" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E9%A1%B9%E7%9B%AE%E8%83%8C%E6%99%AF" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h1>
-&lt;h3 class="relative group">为什么想开发？
-&lt;div id="%E4%B8%BA%E4%BB%80%E4%B9%88%E6%83%B3%E5%BC%80%E5%8F%91" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E6%83%B3%E5%BC%80%E5%8F%91" aria-label="锚点">#&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;p>声音输出的效率比文字高，而且能保留比文字更多的信息，比如音色、情绪、现场等。但是声音的输出效率又文字低，对于受众，阅读比听力更快，而且文字更方便未来的分析、总结、复盘等。
-因此，我需要一个“声音+文字“结合的笔记系统。用声音来输入，支持存档，支持转译成文字。这样既完全地记录了个体某个时刻的生活状态，又方便于未来的分享与使用。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian插件 on 学锋 xuefeng</title>
+    <link>http://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</link>
+    <description>Recent content in Obsidian插件 on 学锋 xuefeng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 学锋 xuefeng</copyright>
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Obsidian插件-声音转文字</title>
+      <link>http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Obsidian插件-声音转文字 
+    &lt;div id=&#34;obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;产品名称(中)&lt;/th&gt;
+          &lt;th&gt;语音转文字&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;产品名称(En)&lt;/td&gt;
+          &lt;td&gt;Voice2Text&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;产品简介&lt;/td&gt;
+          &lt;td&gt;Voice2Text是一款接入OpenAI 模型的语音转文字插件，支持录音及暂停、语音转文字、录音文件保存等。与 Obsidian 集成，帮助用户记录方便通过录音转文字记录日记等。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;产品类型&lt;/td&gt;
+          &lt;td&gt;Obsidian 插件&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Github&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/Alllen66/obsidian-voice2text&#34; target=&#34;_blank&#34;&gt;https://github.com/Alllen66/obsidian-voice2text&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;产品安装&lt;/td&gt;
+          &lt;td&gt;Obsidian &amp;gt; 点击浏览社区插件 &amp;gt; 搜索 &amp;ldquo;Voice to Text&amp;rdquo;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;AI 编程软件清单&lt;br&gt;&lt;/td&gt;
+          &lt;td&gt;Cursor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;开发时长&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+          &lt;td&gt;1.5 天&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;开发日期&lt;/td&gt;
+          &lt;td&gt;2025/04/04&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;h1 class=&#34;relative group&#34;&gt;项目背景 
+    &lt;div id=&#34;%E9%A1%B9%E7%9B%AE%E8%83%8C%E6%99%AF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%A1%B9%E7%9B%AE%E8%83%8C%E6%99%AF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;为什么想开发？ 
+    &lt;div id=&#34;%E4%B8%BA%E4%BB%80%E4%B9%88%E6%83%B3%E5%BC%80%E5%8F%91&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%BA%E4%BB%80%E4%B9%88%E6%83%B3%E5%BC%80%E5%8F%91&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;声音输出的效率比文字高，而且能保留比文字更多的信息，比如音色、情绪、现场等。但是声音的输出效率又文字低，对于受众，阅读比听力更快，而且文字更方便未来的分析、总结、复盘等。
+因此，我需要一个“声音+文字“结合的笔记系统。用声音来输入，支持存档，支持转译成文字。这样既完全地记录了个体某个时刻的生活状态，又方便于未来的分享与使用。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on 学锋 xuefeng</title><link>https://localhost:1313/tags/</link><description>Recent content in Tags on 学锋 xuefeng</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 学锋 xuefeng</copyright><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>国际化往事</title><link>https://localhost:1313/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://localhost:1313/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</guid><description/></item><item><title>AI编程</title><link>https://localhost:1313/tags/ai%E7%BC%96%E7%A8%8B/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://localhost:1313/tags/ai%E7%BC%96%E7%A8%8B/</guid><description/></item><item><title>Obsidian插件</title><link>https://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</guid><description/></item><item><title>OpenAI API</title><link>https://localhost:1313/tags/openai-api/</link><pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate><guid>https://localhost:1313/tags/openai-api/</guid><description/></item><item><title>个人成长</title><link>https://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link><pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate><guid>https://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</guid><description/></item><item><title>生产效率</title><link>https://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</link><pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate><guid>https://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</guid><description/></item><item><title>微信小程序</title><link>https://localhost:1313/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link><pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate><guid>https://localhost:1313/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 学锋 xuefeng</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on 学锋 xuefeng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 学锋 xuefeng</copyright>
+    <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>国际化往事</title>
+      <link>http://localhost:1313/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI编程</title>
+      <link>http://localhost:1313/tags/ai%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Obsidian插件</title>
+      <link>http://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OpenAI API</title>
+      <link>http://localhost:1313/tags/openai-api/</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/openai-api/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>个人成长</title>
+      <link>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>生产效率</title>
+      <link>http://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>微信小程序</title>
+      <link>http://localhost:1313/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
