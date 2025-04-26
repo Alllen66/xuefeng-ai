@@ -12,11 +12,34 @@
   ],
   "routes": [
     {
+      "src": "/(.+)/index\\.html",
+      "headers": {
+        "cache-control": "public, max-age=3600, s-maxage=3600"
+      },
+      "continue": true
+    },
+    {
+      "src": "/(.+)/index\\.xml",
+      "headers": {
+        "content-type": "application/xml",
+        "cache-control": "public, max-age=3600, s-maxage=3600"
+      },
+      "continue": true
+    },
+    {
+      "src": "/(.*)\\.(?:js|css|xml|txt|svg|png|jpg|jpeg|gif|ico|json)",
+      "headers": {
+        "cache-control": "public, max-age=31536000, immutable"
+      },
+      "continue": true
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
       "src": "/(.*)",
       "dest": "/$1",
-      "headers": {
-        "Cache-Control": "public, max-age=3600"
-      }
+      "check": true
     }
   ]
 } 
