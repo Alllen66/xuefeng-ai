@@ -9,5 +9,14 @@
         "outputDirectory": "public"
       }
     }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1",
+      "headers": {
+        "Cache-Control": "public, max-age=3600"
+      }
+    }
   ]
 } 
