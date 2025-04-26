@@ -6,7 +6,9 @@
       "use": "@vercel/static-build",
       "config": {
         "buildCommand": "npm run vercel-build",
-        "outputDirectory": "public"
+        "outputDirectory": "public",
+        "installCommand": "npm install",
+        "framework": "hugo"
       }
     }
   ],
@@ -41,5 +43,10 @@
       "dest": "/$1",
       "check": true
     }
-  ]
+  ],
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.144.0"
+    }
+  }
 } 
