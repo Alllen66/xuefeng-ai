@@ -2,19 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>欢迎来到 xuefeng.ai! on 学锋 xuefeng</title>
-    <link>http://localhost:58393/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in 欢迎来到 xuefeng.ai! on 学锋 xuefeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 学锋 xuefeng</copyright>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:58393/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>抖音美食一键变私厨：我用AI给家人写了个下厨房</title>
+      <link>http://localhost:1313/tutorial/%E6%8A%96%E9%9F%B3%E7%BE%8E%E9%A3%9F%E4%B8%80%E9%94%AE%E5%8F%98%E7%A7%81%E5%8E%A8-%E6%88%91%E7%94%A8ai%E7%BB%99%E5%AE%B6%E4%BA%BA%E5%86%99%E4%BA%86%E4%B8%AA%E4%B8%8B%E5%8E%A8%E6%88%BF/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tutorial/%E6%8A%96%E9%9F%B3%E7%BE%8E%E9%A3%9F%E4%B8%80%E9%94%AE%E5%8F%98%E7%A7%81%E5%8E%A8-%E6%88%91%E7%94%A8ai%E7%BB%99%E5%AE%B6%E4%BA%BA%E5%86%99%E4%BA%86%E4%B8%AA%E4%B8%8B%E5%8E%A8%E6%88%BF/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;“吃什么”是最大难题&lt;/strong&gt; 
+    &lt;div id=&#34;%E5%90%83%E4%BB%80%E4%B9%88%E6%98%AF%E6%9C%80%E5%A4%A7%E9%9A%BE%E9%A2%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%90%83%E4%BB%80%E4%B9%88%E6%98%AF%E6%9C%80%E5%A4%A7%E9%9A%BE%E9%A2%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;每逢周末，家中最哲学的问题总是——&lt;strong&gt;今天吃什么？&lt;/strong&gt;
+吃得太随意，对不起一周如牛如马的自己；吃得太随便，对不起为了生活努力活着的胃。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“人生不能将就，哪怕是一顿饭。”&lt;/strong&gt;
+——某位在厨房深夜崩溃的诗人&lt;/p&gt;
+&lt;p&gt;![[Pasted image 20250512203947.png | 300]]&lt;/p&gt;
+&lt;p&gt;作为一个美食爱好者 + 拉美三年外派 + 曾被戏称“中华小当家”的我，这件事自然不能含糊。
+虽然我会做饭，但选什么菜、吃哪一口，才是最难的部分。
+更要命的是，家里掌管点菜大权的那位&amp;quot;宇宙之神&amp;quot;，恰好是个纠结症晚期患者——&amp;ldquo;吃啥都行&amp;quot;和&amp;quot;不知道想吃啥&amp;quot;是她的口头禅，而当我提出具体建议时，又总能收获一句&amp;quot;不太想吃这个&amp;rdquo;。&lt;/p&gt;
+&lt;p&gt;眼看马上陷入僵局，刘当家只好呼叫老朋友——聪明的一休。一休苦思冥想，一夜头发掉光，终于从刷短视频中得到了灵感：我们每天刷抖音，随手就能刷到超级下饭的视频。&lt;strong&gt;如果有个工具能自动把抖音美食视频变成菜谱，像刷抖音一样“滑滑滑”就能选菜，那不就完美了？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;刘当家当即竖起大拇指：“就这！说干就干！”&lt;/p&gt;
+&lt;p&gt;于是，我用了2天周末+5杯咖啡+无数次AI罢工的代价，我终于做出了这个让老婆直呼&amp;quot;老公牛逼&amp;quot;的神器！&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;产品展示 Demo show 
+    &lt;div id=&#34;%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA-demo-show&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA-demo-show&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;场景一｜美食视频秒变菜谱&lt;/strong&gt; 
+    &lt;div id=&#34;%E5%9C%BA%E6%99%AF%E4%B8%80%E7%BE%8E%E9%A3%9F%E8%A7%86%E9%A2%91%E7%A7%92%E5%8F%98%E8%8F%9C%E8%B0%B1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%9C%BA%E6%99%AF%E4%B8%80%E7%BE%8E%E9%A3%9F%E8%A7%86%E9%A2%91%E7%A7%92%E5%8F%98%E8%8F%9C%E8%B0%B1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;刷到心动菜？一键分享视频给&lt;strong&gt;抖音菜谱小助手&lt;/strong&gt;（一期飞书实现）。
+它会用 AI 自动识别、结构化出菜谱，包括菜名、材料、做法、标签等等，还会自动存进&lt;strong&gt;飞书多维表格&lt;/strong&gt;。这样你就拥有了私人定制的抖音菜谱。
+{demo_视频转菜谱}&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tutorial/%E6%8A%96%E9%9F%B3%E7%BE%8E%E9%A3%9F%E4%B8%80%E9%94%AE%E5%8F%98%E7%A7%81%E5%8E%A8-%E6%88%91%E7%94%A8ai%E7%BB%99%E5%AE%B6%E4%BA%BA%E5%86%99%E4%BA%86%E4%B8%AA%E4%B8%8B%E5%8E%A8%E6%88%BF/featured.png" />
+    </item>
     
     <item>
       <title>AI时代，我用Cursor搭建了一个可持续更新的个人网站，这是我的血泪教训</title>
-      <link>http://localhost:58393/tutorial/cursor-%E6%90%AD%E5%BB%BA%E5%8F%AF%E6%9B%B4%E6%96%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</link>
+      <link>http://localhost:1313/tutorial/cursor-%E6%90%AD%E5%BB%BA%E5%8F%AF%E6%9B%B4%E6%96%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tutorial/cursor-%E6%90%AD%E5%BB%BA%E5%8F%AF%E6%9B%B4%E6%96%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</guid>
+      <guid>http://localhost:1313/tutorial/cursor-%E6%90%AD%E5%BB%BA%E5%8F%AF%E6%9B%B4%E6%96%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</guid>
       <description>&lt;p&gt;你是否曾经幻想过拥有一个属于自己的网站？在这个数字身份日益重要的时代，一个个人网站就像是互联网世界中的一张&amp;quot;身份证&amp;quot;。特别是在AI大模型崛起的今天，&lt;strong&gt;「30秒生成个人网站」&lt;/strong&gt;——当这样的AI宣传语铺天盖地时，搭建个人网站似乎变得触手可及。&lt;/p&gt;
 &lt;p&gt;作为一名产品经理，我一直有这样的执念——希望在这个电子时代留下自己的印记。怀揣着这个想法，我踏上了用AI搭建个人网站的旅程。直到真正动手后才发现，这简直是自媒体给零编程经验的人挖的「认知陷阱」&amp;hellip;&lt;/p&gt;
 
@@ -80,15 +137,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;经过前期的失败和反思，我总结出了一套相对可行的流程：&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58393/tutorial/cursor-%E6%90%AD%E5%BB%BA%E5%8F%AF%E6%9B%B4%E6%96%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/featured.png.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tutorial/cursor-%E6%90%AD%E5%BB%BA%E5%8F%AF%E6%9B%B4%E6%96%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/featured.png.png" />
     </item>
     
     <item>
       <title>VO.01-框架：如何在混沌多变的时代，保持个人成长？</title>
-      <link>http://localhost:58393/blog/vo-01-%E6%A1%86%E6%9E%B6-%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B7%B7%E6%B2%8C%E5%A4%9A%E5%8F%98%E7%9A%84%E6%97%B6%E4%BB%A3-%E4%BF%9D%E6%8C%81%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link>
+      <link>http://localhost:1313/blog/vo-01-%E6%A1%86%E6%9E%B6-%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B7%B7%E6%B2%8C%E5%A4%9A%E5%8F%98%E7%9A%84%E6%97%B6%E4%BB%A3-%E4%BF%9D%E6%8C%81%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/blog/vo-01-%E6%A1%86%E6%9E%B6-%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B7%B7%E6%B2%8C%E5%A4%9A%E5%8F%98%E7%9A%84%E6%97%B6%E4%BB%A3-%E4%BF%9D%E6%8C%81%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</guid>
+      <guid>http://localhost:1313/blog/vo-01-%E6%A1%86%E6%9E%B6-%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B7%B7%E6%B2%8C%E5%A4%9A%E5%8F%98%E7%9A%84%E6%97%B6%E4%BB%A3-%E4%BF%9D%E6%8C%81%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</guid>
       <description>&lt;p&gt;“我好像生病了。” 刺猬蜷缩在树洞里，恹恹地狐狸说。他们已经有好些日子没出门了，一方面是外面温度太高了，另一方面是疫情管控。树洞坐落在第三河岸，前些日子邻居蛤蟆先生确诊了，于是整条河道都成了风险区域。&lt;/p&gt;
 &lt;p&gt;宏观环境对个体的影响太大了，尽管平日里大家只关心微观的事物。狐狸知道这几年宏观变化对刺猬的影响，而其中最关键的三个因素便是：温度，疫情，经济。刺猬对温度有着极高的要求，只能生活在24度到35度间，但最近外面气温有时高达40度。几天前，居住在长江的红朋友白鲟永久过世了，他们难过得一天没有吃饭。而疫情无疑又是另一个金箍圈，把刺猬圈在有限空间里，再也不能像往日般看山河湖海，结识天南地北的朋友。他时不时地会回想起曾经那些可以随心飞的日子，那些年忧心忡忡的问题，比如下雨了没法外出、年终没有拿到A，如今对比起来竟不值一提。受时局与疫情影响，整体经济也在下行，消费动力不足，企业的生存发展碰到各种挑战。大厂裁员弥漫在河岸上下，工作越来越卷了，本来已经舒展的刺猬，也不由自主地卷了起来，把硬刺对着同事，甚至身边的亲朋好友。&lt;/p&gt;
 &lt;p&gt;更为糟糕的是，刺猬最近有点上瘾了，除了上班外，他把所有时间都交给了娱乐。有时是游戏，有时是综艺，有时是短视频，总之总会找到一种方式，让意识没有限制地、无休无止地随之漂流。仿佛时间变得不再有限，变得不再有价值，变得不再属于自己。值得一提的是，他之前不是这样的，据狐狸的回忆，几年前他还是意气风发、热爱生活的少年，向往世界之大、爱读书、爱交友，喜欢创造新东西。但这几年，世界变得日益复杂而失控，在与世界交互中难免碰壁，时常充满着无法掌控的无力感。而在另一个日益膨胀的娱乐世界里，他却可以批阅奏章、指点江山、杀伐决断，一切尽在指尖掌控中。在温水之中，刺猬不知不觉地掉进了“奶头乐陷阱”，&lt;em&gt;心甘情愿地成为娱乐的附庸，毫无怨言，甚至无声无息，其结果是成了一个娱乐至死的物种&lt;/em&gt; [1]。&lt;/p&gt;
@@ -124,10 +181,10 @@
     
     <item>
       <title>VO.02-元认知：成长太慢，是因为它还没觉醒？</title>
-      <link>http://localhost:58393/blog/vo-02-%E5%85%83%E8%AE%A4%E7%9F%A5-%E6%88%90%E9%95%BF%E5%A4%AA%E6%85%A2-%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83%E8%BF%98%E6%B2%A1%E8%A7%89%E9%86%92/</link>
+      <link>http://localhost:1313/blog/vo-02-%E5%85%83%E8%AE%A4%E7%9F%A5-%E6%88%90%E9%95%BF%E5%A4%AA%E6%85%A2-%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83%E8%BF%98%E6%B2%A1%E8%A7%89%E9%86%92/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/blog/vo-02-%E5%85%83%E8%AE%A4%E7%9F%A5-%E6%88%90%E9%95%BF%E5%A4%AA%E6%85%A2-%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83%E8%BF%98%E6%B2%A1%E8%A7%89%E9%86%92/</guid>
+      <guid>http://localhost:1313/blog/vo-02-%E5%85%83%E8%AE%A4%E7%9F%A5-%E6%88%90%E9%95%BF%E5%A4%AA%E6%85%A2-%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83%E8%BF%98%E6%B2%A1%E8%A7%89%E9%86%92/</guid>
       <description>&lt;p&gt;
   &lt;figure&gt;
     &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/3c6340be-72d3-929e-0b4d-2e2195ca7994/doc/C7D5BEE0-9385-4082-AB85-512ED611DD75/3224E33E-F7B4-4782-9F44-486E33C62283_2/IcnFm9WtR3igp7yNpyjUEIb2LSmM9g4MUQLQsu7HZNgz/-1.png&#34; alt=&#34;元认知-1.png&#34; /&gt;
@@ -217,10 +274,10 @@
     
     <item>
       <title>VO.03-情绪：积极情绪建构欣欣向荣的未来</title>
-      <link>http://localhost:58393/blog/vo-03-%E6%83%85%E7%BB%AA-%E7%A7%AF%E6%9E%81%E6%83%85%E7%BB%AA%E5%BB%BA%E6%9E%84%E6%AC%A3%E6%AC%A3%E5%90%91%E8%8D%A3%E7%9A%84%E6%9C%AA%E6%9D%A5/</link>
+      <link>http://localhost:1313/blog/vo-03-%E6%83%85%E7%BB%AA-%E7%A7%AF%E6%9E%81%E6%83%85%E7%BB%AA%E5%BB%BA%E6%9E%84%E6%AC%A3%E6%AC%A3%E5%90%91%E8%8D%A3%E7%9A%84%E6%9C%AA%E6%9D%A5/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/blog/vo-03-%E6%83%85%E7%BB%AA-%E7%A7%AF%E6%9E%81%E6%83%85%E7%BB%AA%E5%BB%BA%E6%9E%84%E6%AC%A3%E6%AC%A3%E5%90%91%E8%8D%A3%E7%9A%84%E6%9C%AA%E6%9D%A5/</guid>
+      <guid>http://localhost:1313/blog/vo-03-%E6%83%85%E7%BB%AA-%E7%A7%AF%E6%9E%81%E6%83%85%E7%BB%AA%E5%BB%BA%E6%9E%84%E6%AC%A3%E6%AC%A3%E5%90%91%E8%8D%A3%E7%9A%84%E6%9C%AA%E6%9D%A5/</guid>
       <description>&lt;p&gt;
   &lt;figure&gt;
     &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/3c6340be-72d3-929e-0b4d-2e2195ca7994/doc/57E8F8D1-7DAD-42B6-9330-E8F251318050/87AAEA94-3BEB-47AD-9C18-3650D34CC9AF_2/roolvDzAx7hYrBOWl7F22ADZxDYg7E8BwUzv0PdjI3Az/Image.png&#34; alt=&#34;Image.png&#34; /&gt;
@@ -303,10 +360,10 @@
     
     <item>
       <title>我的国际化往事（中）</title>
-      <link>http://localhost:58393/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%AD/</link>
+      <link>http://localhost:1313/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%AD/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%AD/</guid>
+      <guid>http://localhost:1313/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%AD/</guid>
       <description>&lt;p&gt;01&lt;/p&gt;
 &lt;p&gt;初秋的北平最是迷人，老舍说她是人间天堂，实不为过。郊外的软件园，街道宽敞而干净，路边的银杏开始泛黄，天空高高的，比莫兰迪还要好看。空气晴朗透明，夹杂着一丝凉意，总有让人拔足狂奔的感觉。于是，程咬金便组织了跑步团，每天晚上从西北旺出发，经过友谊路，穿过金叶层染的林荫小道，在中关村公园绕个圈，然后再跑回来。有一次，他问鲁班七号有什么梦想，七号像个中二少年说要改变世界。程咬金分享了一段话，它刻在英国威斯敏斯特教堂的墓碑上，大意便是与其努力改变世界，不如学习如何改变自己。后来才发现，在这个瞬息万变的时代，他们不仅没有改变世界，还被世界改变了。&lt;/p&gt;
 &lt;p&gt;桑托斯是个阳光明媚的港口城市，坐落在圣保罗的郊外。每到节假日，大街上都是城里来度假的人，女人穿着比基尼，身材大多匀称，男人穿着裤衩，即使大腹便便。马修斯开着从老爹那借来的奔驰三系，带着他们来到这里“考察”城市，如果没有意外这将是中巴共享出行的Pilot city（实验城市）。来到了公寓，程咬金推开门窗，南半球的阳光灌满了房间，海风徐徐带着资本主义的气息。看着窗台外面的沙滩，便喊了一句：奔跑吧兄弟。鲁班七号响应了其号召，把西二旗的跑团旗帜带到了拉美大陆。和他们一起奔跑还有巴西的男男女女，见到有些男人露出了肌肉膀子，程咬金便不甘示弱把上衣脱了，美其名曰为国争光。在爱国热情和咬金怂恿下，鲁班七号也露出了薄弱的身板。夕阳的余晖把影子拉长，他们光着膀子，脱离了中国引力，没有拘束地奔跑着。洁白的沙滩上，留下他们或深或浅的足迹，潮起潮落间又被海水抹平了痕迹。&lt;/p&gt;
@@ -322,15 +379,15 @@
 &lt;p&gt;墨西哥，一个离上帝太远，美国太近的国家。和巴西截然不同的体感是，它拥有某种与中国的相似性：人口众多，多灾多难，埋头苦干（相对巴西而言）。当时候，他们住在一个百年老店——日内瓦酒店，酒店的一楼像个小型博物馆。穿过小喷泉，扑面而来是中世纪的客厅，墙上挂着油画，四周伫立展柜，展览酒店创始人的遗物。墨西哥人是不太忌讳死亡的，甚至有关于死亡的亡灵节。当时热映的《寻梦环游记》充分展示了他们的民族性，那一句“真正的死亡是被人遗忘”让人深刻。但是还没来及在墨西哥安定下来，他又要回巴西了。因为看到巴西未来巨大的市场，滴滴决定全资收购99，于是鲁班七号主动请缨，跟着程咬金回了巴西。&lt;/p&gt;
 &lt;p&gt;但是重回巴西之旅无疑是困难重重，历史上收购重组往往失败多成功少，更别提刚刚出海的滴滴。再回巴西，重掌权力的程咬金挥舞着大斧头准备大干一场。先是把不听话的“墙头草”开除了，而后又对CEO和老干部发起了挑战。滴滴是一家年轻的公司，生长的人也都气宇轩昂又年轻着，有着颠覆一切的理想主义。而社会、商业与职场，包括个体，他们就像是紧密衔接的复合体，拥有更加复杂的面相，而不是唯一的标准。应该是沉着稳重、大局为上，还是一腔孤勇、无惧边界，至今没有唯一的答案。而不论是谁，都在追求目标的过程中，展现着人性的善恶，有欲望亦有恐惧，于是人就逐渐立体了。就是从这时开始，鲁班七号慢慢地从程咬金的世界消失了。从曾经的somebody，变成了莫衷一是的nobody。也许是阶级的差异，也许这个阶段并非稀缺了。如果能自大的称之为朋友，那世界上每个人都注定是陪你走一段路的。但说到底其实终究是商业职场，每个人的价码不是由远近而定，而是取决于动态的供需。&lt;/p&gt;
 &lt;p&gt;就在这摇摇晃晃之际，管理层从专车调来了弈星，他擅长战略推演，是个聪明、纯粹而守诺的领导。刚到巴西，他便把所有的中国同事聚在一起，会议室就像露天电影院，大家随意坐在台阶，围绕在他身边。他讲了两个故事，一个是哥伦布像一颗星光走向漆黑的大海，最终开启了大航海时代；另一个是毛泽东在国民党疯狂围剿下，适时冷静地分析了“敌强我弱”局势，从而得出“敌进我退，敌驻我扰，敌疲我打，敌退我追”的游击战略。他的讲话充满了魅力，像个一颗火种又点燃了众人的热情，让兵荒马乱的局面得到了控制。但对于最早期的开拓团队，对于空降领导充满了某种复杂的情感，在理性与忠诚间左右为难。鲁班七号没有二选一，而是选择了C——换了个岗位。弈星约鲁班七号谈话，新办公室的会议室不大，蓝色的墙黄色的桌子。弈星问他有没有什么组织可以帮忙的，他说“风物长宜放眼量”，想做更长期的事情，而不是重复的短期博弈。于是，他便从运营坑跳到了产品坑，从此开始了新的旅程。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58393/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%AD/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%AD/featured.png" />
     </item>
     
     <item>
       <title>我的国际化往事（上）</title>
-      <link>http://localhost:58393/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%8A/</link>
+      <link>http://localhost:1313/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%8A/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%8A/</guid>
+      <guid>http://localhost:1313/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B%E4%B8%8A/</guid>
       <description>&lt;p&gt;0&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;多年以后，站在杭州星辰大厦门口，鲁班七四九八号&lt;/strong&gt;（以下简称&amp;quot;鲁班七号&amp;quot;）&lt;strong&gt;将会回想起工人体育馆那个星光璀璨的夜晚。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;那一天是2017年1月17日，之所以记得清楚，是因为陈小春的独家记忆尤为深刻。再一次见到山鸡哥，仿佛穿越回五彩斑斓的过去，带着兄弟重新披荆斩棘，那些曾经的友情岁月，就像逃脱封锁区的野马，齐头并进，尘土飞扬。那时候的他们，除了认错与整改，还有诗歌与远方。他们还是勇敢无畏的少年，他们的征途是星辰大海。带着这份梦想与勇气，漂洋过海，从西二旗到南半球，踏上国际化的征程。&lt;/p&gt;
@@ -353,10 +410,10 @@
     
     <item>
       <title>我的国际化往事·2018</title>
-      <link>http://localhost:58393/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B-2018/</link>
+      <link>http://localhost:1313/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B-2018/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B-2018/</guid>
+      <guid>http://localhost:1313/blog/%E6%88%91%E7%9A%84%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B-2018/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“有时回头遥望我年轻的时候，像遥望迷失在烟雾中的故乡”&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;
@@ -417,10 +474,10 @@
     
     <item>
       <title>公众号/Official Account</title>
-      <link>http://localhost:58393/gongzhonghao/</link>
+      <link>http://localhost:1313/gongzhonghao/</link>
       <pubDate>Fri, 18 Apr 2025 07:36:57 +0800</pubDate>
       
-      <guid>http://localhost:58393/gongzhonghao/</guid>
+      <guid>http://localhost:1313/gongzhonghao/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;公众号 
     &lt;div id=&#34;%E5%85%AC%E4%BC%97%E5%8F%B7&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -434,7 +491,7 @@
 &lt;p&gt;欢迎关注我的公众号：&lt;strong&gt;体验官学锋&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:58393/img/gongzhonghao_qr.png&#34; alt=&#34;公众号二维码&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/gongzhonghao_qr.png&#34; alt=&#34;公众号二维码&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -446,10 +503,10 @@
     
     <item>
       <title>即刻/Jike</title>
-      <link>http://localhost:58393/jike/</link>
+      <link>http://localhost:1313/jike/</link>
       <pubDate>Fri, 18 Apr 2025 07:36:57 +0800</pubDate>
       
-      <guid>http://localhost:58393/jike/</guid>
+      <guid>http://localhost:1313/jike/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;即刻 
     &lt;div id=&#34;%E5%8D%B3%E5%88%BB&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -463,7 +520,7 @@
 &lt;p&gt;欢迎关注我的即刻账号：&lt;strong&gt;xuefeng_ai&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:58393/img/jike_qr.png&#34; alt=&#34;即刻二维码&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/jike_qr.png&#34; alt=&#34;即刻二维码&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -475,10 +532,10 @@
     
     <item>
       <title>微信号/WeChat</title>
-      <link>http://localhost:58393/wechat/</link>
+      <link>http://localhost:1313/wechat/</link>
       <pubDate>Fri, 18 Apr 2025 07:36:57 +0800</pubDate>
       
-      <guid>http://localhost:58393/wechat/</guid>
+      <guid>http://localhost:1313/wechat/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;微信号 
     &lt;div id=&#34;%E5%BE%AE%E4%BF%A1%E5%8F%B7&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -492,7 +549,7 @@
 &lt;p&gt;欢迎添加我的微信：&lt;strong&gt;xuefeng_ai&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
     &lt;figure&gt;
-      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:58393/img/wechat_qr.png&#34; alt=&#34;微信二维码&#34; /&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/wechat_qr.png&#34; alt=&#34;微信二维码&#34; /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;
@@ -504,10 +561,10 @@
     
     <item>
       <title>Obsidian插件-声音转文字</title>
-      <link>http://localhost:58393/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</link>
+      <link>http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</guid>
+      <guid>http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Obsidian插件-声音转文字 
     &lt;div id=&#34;obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -586,15 +643,15 @@
 &lt;/h3&gt;
 &lt;p&gt;声音输出的效率比文字高，而且能保留比文字更多的信息，比如音色、情绪、现场等。但是声音的输出效率又文字低，对于受众，阅读比听力更快，而且文字更方便未来的分析、总结、复盘等。
 因此，我需要一个&amp;quot;声音+文字&amp;quot;结合的笔记系统。用声音来输入，支持存档，支持转译成文字。这样既完全地记录了个体某个时刻的生活状态，又方便于未来的分享与使用。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58393/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/featured.png" />
     </item>
     
     <item>
       <title>微信小程序-HabitJoy微习惯</title>
-      <link>http://localhost:58393/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/</link>
+      <link>http://localhost:1313/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/</guid>
+      <guid>http://localhost:1313/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/</guid>
       <description>&lt;p&gt;30 岁零基础，8 周上线小程序，他是如何做到的？&lt;/p&gt;
 &lt;p&gt;“难道我的余生就这样了吗？” 宋浩然从噩梦中惊醒，看了看闹铃，凌晨五点。过了而立之年，早醒已成习惯。这时候，to sleep or not to sleep，是个问题。但他还是决定起床，拖着疲惫的身体走进洗手间，蹲在马桶上，开始玩《王者荣耀》。最近，他沉迷于此，每天需要玩上几个小时。偶尔也有自责，但工作和生活少有值得期待的事，只有在游戏中，才能获得一丝成就感。&lt;/p&gt;
 &lt;p&gt;曾几何时，宋浩然也是个意气风发的少年。怀揣改变世界的梦想，他成为了大厂的产品经理。可如今，每天埋头于各种会议和文档，像只受惊的小白兔，疲于奔命，早已忘却初心。卡尼曼说，人有系统1和系统2，前者负责快反应，后者负责慢反应。而现在的宋浩然，似乎只剩下了系统1，只对刺激性的事物有所反应。工作日里，他不停地接受和完成任务；晚上和周末，除了吃饭睡觉，就是玩游戏、刷短视频。在等待游戏开局的间隙，他也会偶尔想起，曾经那个热爱读书与运动的自己，只是转瞬即逝，马上又得投入下一场战斗。&lt;/p&gt;
@@ -638,7 +695,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;假设你是微信小程序开发专家，现在指导零经验的开发者，完成小程序的代码，并给出一步步的指引。请输出以下案例的完整代码：创建一个简单的待办事项列表。开发一个简单的待办事项列表，允许用户添加新的待办事项、查看现有待办事项列表，并标记完成的事项。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;很快，AI 助手就给出了所有的代码，宋浩然按照指引将代码复制到对应的文件中。当所有代码完成，他独立完成了“待办事项”小程序。虽然功能简陋，界面朴素，但这是他的第一个完成项目。看着屏幕上“完成第一款小程序”的字样，宋浩然热泪盈眶。他想起了那个曾经对编程望而却步的自己，感慨万千。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58393/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/featured.png" />
     </item>
     
   </channel>

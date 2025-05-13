@@ -2,299 +2,319 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 学锋 xuefeng</title>
-    <link>http://localhost:58393/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 学锋 xuefeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 学锋 xuefeng</copyright>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:58393/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI 编程</title>
-      <link>http://localhost:58393/tags/ai-%E7%BC%96%E7%A8%8B/</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/ai-%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/ai-%E7%BC%96%E7%A8%8B/</guid>
+      <guid>http://localhost:1313/tags/ai-%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>抖音</title>
+      <link>http://localhost:1313/tags/%E6%8A%96%E9%9F%B3/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%8A%96%E9%9F%B3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>美食</title>
+      <link>http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>VUCA</title>
-      <link>http://localhost:58393/tags/vuca/</link>
+      <link>http://localhost:1313/tags/vuca/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/vuca/</guid>
+      <guid>http://localhost:1313/tags/vuca/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>成长框架</title>
-      <link>http://localhost:58393/tags/%E6%88%90%E9%95%BF%E6%A1%86%E6%9E%B6/</link>
+      <link>http://localhost:1313/tags/%E6%88%90%E9%95%BF%E6%A1%86%E6%9E%B6/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E6%88%90%E9%95%BF%E6%A1%86%E6%9E%B6/</guid>
+      <guid>http://localhost:1313/tags/%E6%88%90%E9%95%BF%E6%A1%86%E6%9E%B6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>邓宁-克鲁格效应</title>
-      <link>http://localhost:58393/tags/%E9%82%93%E5%AE%81-%E5%85%8B%E9%B2%81%E6%A0%BC%E6%95%88%E5%BA%94/</link>
+      <link>http://localhost:1313/tags/%E9%82%93%E5%AE%81-%E5%85%8B%E9%B2%81%E6%A0%BC%E6%95%88%E5%BA%94/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E9%82%93%E5%AE%81-%E5%85%8B%E9%B2%81%E6%A0%BC%E6%95%88%E5%BA%94/</guid>
+      <guid>http://localhost:1313/tags/%E9%82%93%E5%AE%81-%E5%85%8B%E9%B2%81%E6%A0%BC%E6%95%88%E5%BA%94/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>个人成长</title>
-      <link>http://localhost:58393/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link>
+      <link>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</guid>
+      <guid>http://localhost:1313/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>积极情绪</title>
-      <link>http://localhost:58393/tags/%E7%A7%AF%E6%9E%81%E6%83%85%E7%BB%AA/</link>
+      <link>http://localhost:1313/tags/%E7%A7%AF%E6%9E%81%E6%83%85%E7%BB%AA/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E7%A7%AF%E6%9E%81%E6%83%85%E7%BB%AA/</guid>
+      <guid>http://localhost:1313/tags/%E7%A7%AF%E6%9E%81%E6%83%85%E7%BB%AA/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>积极心理学</title>
-      <link>http://localhost:58393/tags/%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6/</link>
+      <link>http://localhost:1313/tags/%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6/</guid>
+      <guid>http://localhost:1313/tags/%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>情绪</title>
-      <link>http://localhost:58393/tags/%E6%83%85%E7%BB%AA/</link>
+      <link>http://localhost:1313/tags/%E6%83%85%E7%BB%AA/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E6%83%85%E7%BB%AA/</guid>
+      <guid>http://localhost:1313/tags/%E6%83%85%E7%BB%AA/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>情绪建构论</title>
-      <link>http://localhost:58393/tags/%E6%83%85%E7%BB%AA%E5%BB%BA%E6%9E%84%E8%AE%BA/</link>
+      <link>http://localhost:1313/tags/%E6%83%85%E7%BB%AA%E5%BB%BA%E6%9E%84%E8%AE%BA/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E6%83%85%E7%BB%AA%E5%BB%BA%E6%9E%84%E8%AE%BA/</guid>
+      <guid>http://localhost:1313/tags/%E6%83%85%E7%BB%AA%E5%BB%BA%E6%9E%84%E8%AE%BA/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>无限游戏</title>
-      <link>http://localhost:58393/tags/%E6%97%A0%E9%99%90%E6%B8%B8%E6%88%8F/</link>
+      <link>http://localhost:1313/tags/%E6%97%A0%E9%99%90%E6%B8%B8%E6%88%8F/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E6%97%A0%E9%99%90%E6%B8%B8%E6%88%8F/</guid>
+      <guid>http://localhost:1313/tags/%E6%97%A0%E9%99%90%E6%B8%B8%E6%88%8F/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>心理健康</title>
-      <link>http://localhost:58393/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</link>
+      <link>http://localhost:1313/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</guid>
+      <guid>http://localhost:1313/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>心流</title>
-      <link>http://localhost:58393/tags/%E5%BF%83%E6%B5%81/</link>
+      <link>http://localhost:1313/tags/%E5%BF%83%E6%B5%81/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E5%BF%83%E6%B5%81/</guid>
+      <guid>http://localhost:1313/tags/%E5%BF%83%E6%B5%81/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>信息爆炸</title>
-      <link>http://localhost:58393/tags/%E4%BF%A1%E6%81%AF%E7%88%86%E7%82%B8/</link>
+      <link>http://localhost:1313/tags/%E4%BF%A1%E6%81%AF%E7%88%86%E7%82%B8/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E4%BF%A1%E6%81%AF%E7%88%86%E7%82%B8/</guid>
+      <guid>http://localhost:1313/tags/%E4%BF%A1%E6%81%AF%E7%88%86%E7%82%B8/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>有限游戏</title>
-      <link>http://localhost:58393/tags/%E6%9C%89%E9%99%90%E6%B8%B8%E6%88%8F/</link>
+      <link>http://localhost:1313/tags/%E6%9C%89%E9%99%90%E6%B8%B8%E6%88%8F/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E6%9C%89%E9%99%90%E6%B8%B8%E6%88%8F/</guid>
+      <guid>http://localhost:1313/tags/%E6%9C%89%E9%99%90%E6%B8%B8%E6%88%8F/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>元认知</title>
-      <link>http://localhost:58393/tags/%E5%85%83%E8%AE%A4%E7%9F%A5/</link>
+      <link>http://localhost:1313/tags/%E5%85%83%E8%AE%A4%E7%9F%A5/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E5%85%83%E8%AE%A4%E7%9F%A5/</guid>
+      <guid>http://localhost:1313/tags/%E5%85%83%E8%AE%A4%E7%9F%A5/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>自省</title>
-      <link>http://localhost:58393/tags/%E8%87%AA%E7%9C%81/</link>
+      <link>http://localhost:1313/tags/%E8%87%AA%E7%9C%81/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E8%87%AA%E7%9C%81/</guid>
+      <guid>http://localhost:1313/tags/%E8%87%AA%E7%9C%81/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>自我提升</title>
-      <link>http://localhost:58393/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/</link>
+      <link>http://localhost:1313/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/</guid>
+      <guid>http://localhost:1313/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>国际化往事</title>
-      <link>http://localhost:58393/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</link>
+      <link>http://localhost:1313/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</guid>
+      <guid>http://localhost:1313/tags/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>巴西</title>
-      <link>http://localhost:58393/tags/%E5%B7%B4%E8%A5%BF/</link>
+      <link>http://localhost:1313/tags/%E5%B7%B4%E8%A5%BF/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E5%B7%B4%E8%A5%BF/</guid>
+      <guid>http://localhost:1313/tags/%E5%B7%B4%E8%A5%BF/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>产品经理</title>
-      <link>http://localhost:58393/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</link>
+      <link>http://localhost:1313/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</guid>
+      <guid>http://localhost:1313/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>滴滴</title>
-      <link>http://localhost:58393/tags/%E6%BB%B4%E6%BB%B4/</link>
+      <link>http://localhost:1313/tags/%E6%BB%B4%E6%BB%B4/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E6%BB%B4%E6%BB%B4/</guid>
+      <guid>http://localhost:1313/tags/%E6%BB%B4%E6%BB%B4/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>国际化</title>
-      <link>http://localhost:58393/tags/%E5%9B%BD%E9%99%85%E5%8C%96/</link>
+      <link>http://localhost:1313/tags/%E5%9B%BD%E9%99%85%E5%8C%96/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E5%9B%BD%E9%99%85%E5%8C%96/</guid>
+      <guid>http://localhost:1313/tags/%E5%9B%BD%E9%99%85%E5%8C%96/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>跨国经历</title>
-      <link>http://localhost:58393/tags/%E8%B7%A8%E5%9B%BD%E7%BB%8F%E5%8E%86/</link>
+      <link>http://localhost:1313/tags/%E8%B7%A8%E5%9B%BD%E7%BB%8F%E5%8E%86/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E8%B7%A8%E5%9B%BD%E7%BB%8F%E5%8E%86/</guid>
+      <guid>http://localhost:1313/tags/%E8%B7%A8%E5%9B%BD%E7%BB%8F%E5%8E%86/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>情感故事</title>
-      <link>http://localhost:58393/tags/%E6%83%85%E6%84%9F%E6%95%85%E4%BA%8B/</link>
+      <link>http://localhost:1313/tags/%E6%83%85%E6%84%9F%E6%95%85%E4%BA%8B/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E6%83%85%E6%84%9F%E6%95%85%E4%BA%8B/</guid>
+      <guid>http://localhost:1313/tags/%E6%83%85%E6%84%9F%E6%95%85%E4%BA%8B/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AI编程</title>
-      <link>http://localhost:58393/tags/ai%E7%BC%96%E7%A8%8B/</link>
+      <link>http://localhost:1313/tags/ai%E7%BC%96%E7%A8%8B/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/ai%E7%BC%96%E7%A8%8B/</guid>
+      <guid>http://localhost:1313/tags/ai%E7%BC%96%E7%A8%8B/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Obsidian插件</title>
-      <link>http://localhost:58393/tags/obsidian%E6%8F%92%E4%BB%B6/</link>
+      <link>http://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/obsidian%E6%8F%92%E4%BB%B6/</guid>
+      <guid>http://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OpenAI API</title>
-      <link>http://localhost:58393/tags/openai-api/</link>
+      <link>http://localhost:1313/tags/openai-api/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/openai-api/</guid>
+      <guid>http://localhost:1313/tags/openai-api/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>生产效率</title>
-      <link>http://localhost:58393/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</link>
+      <link>http://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</guid>
+      <guid>http://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>微信小程序</title>
-      <link>http://localhost:58393/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
+      <link>http://localhost:1313/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
+      <guid>http://localhost:1313/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</guid>
       <description></description>
       
     </item>

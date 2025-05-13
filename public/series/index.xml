@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 学锋 xuefeng</title>
-    <link>http://localhost:58393/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on 学锋 xuefeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 学锋 xuefeng</copyright>
-    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:58393/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI 编程</title>
-      <link>http://localhost:58393/series/ai-%E7%BC%96%E7%A8%8B/</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/series/ai-%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/series/ai-%E7%BC%96%E7%A8%8B/</guid>
+      <guid>http://localhost:1313/series/ai-%E7%BC%96%E7%A8%8B/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>个人成长框架</title>
-      <link>http://localhost:58393/series/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E6%A1%86%E6%9E%B6/</link>
+      <link>http://localhost:1313/series/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E6%A1%86%E6%9E%B6/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/series/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E6%A1%86%E6%9E%B6/</guid>
+      <guid>http://localhost:1313/series/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E6%A1%86%E6%9E%B6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>国际化往事</title>
-      <link>http://localhost:58393/series/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</link>
+      <link>http://localhost:1313/series/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58393/series/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</guid>
+      <guid>http://localhost:1313/series/%E5%9B%BD%E9%99%85%E5%8C%96%E5%BE%80%E4%BA%8B/</guid>
       <description></description>
       
     </item>

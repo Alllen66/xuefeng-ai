@@ -1,6 +1,6 @@
 ---
 title: "抖音美食一键变私厨：我用AI给家人写了个下厨房"
-date: "2025-04-24"
+date: "2025-05-13"
 description: "利用AI将抖音美食视频转化为菜谱，解决家庭用餐选择难题。"
 tags: ["AI 编程", "抖音", "美食"]
 showTableOfContents: true
