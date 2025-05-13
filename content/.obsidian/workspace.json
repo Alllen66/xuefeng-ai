@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "4f78dd7473c49566",
+    "type": "split",
+    "children": [
+      {
+        "id": "6de3cea57da72ef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e12369e2ff1f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tutorial/Cursor 搭建可更新的个人网站/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ef1be602805d11a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d9121a5ea0a4703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21a7da53a376e92b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c66424e47193f2bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "93af925dc7b2784c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebc2f207e5ffc4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "59c9c83a40452b03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f53ac91b07b598e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tutorial/Cursor 搭建可更新的个人网站/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向链接列表"
+            }
+          },
+          {
+            "id": "8a899b1f8db1ef7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tutorial/Cursor 搭建可更新的个人网站/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "11788907a86edc74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e98efa49bc39ad50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tutorial/Cursor 搭建可更新的个人网站/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "21a7da53a376e92b",
+  "lastOpenFiles": [
+    "tutorial/抖音美食一键变私厨-我用ai给家人写了个下厨房/index.md",
+    "tutorial/抖音美食一键变私厨-我用ai给家人写了个下厨房/Pasted image 20250512224309.png",
+    "tutorial/抖音美食一键变私厨-我用ai给家人写了个下厨房/Pasted image 20250512215508.png",
+    "tutorial/抖音美食一键变私厨-我用ai给家人写了个下厨房/Pasted image 20250512212555.png",
+    "tutorial/抖音美食一键变私厨-我用ai给家人写了个下厨房/Pasted image 20250512203947.png",
+    "tutorial/抖音美食一键变私厨-我用ai给家人写了个下厨房",
+    "projects/Obsidian插件-声音转文字 /index.md",
+    "projects/微信小程序-HabitJoy微习惯/index.md",
+    "_index.md"
+  ]
+}

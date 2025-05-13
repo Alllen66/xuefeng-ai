@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>生产效率 on 学锋 xuefeng</title>
-    <link>http://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</link>
+    <link>http://localhost:58393/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/</link>
     <description>Recent content in 生产效率 on 学锋 xuefeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 学锋 xuefeng</copyright>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:58393/tags/%E7%94%9F%E4%BA%A7%E6%95%88%E7%8E%87/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>微信小程序-HabitJoy微习惯</title>
-      <link>http://localhost:1313/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/</link>
+      <link>http://localhost:58393/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/</guid>
+      <guid>http://localhost:58393/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/</guid>
       <description>&lt;p&gt;30 岁零基础，8 周上线小程序，他是如何做到的？&lt;/p&gt;
 &lt;p&gt;“难道我的余生就这样了吗？” 宋浩然从噩梦中惊醒，看了看闹铃，凌晨五点。过了而立之年，早醒已成习惯。这时候，to sleep or not to sleep，是个问题。但他还是决定起床，拖着疲惫的身体走进洗手间，蹲在马桶上，开始玩《王者荣耀》。最近，他沉迷于此，每天需要玩上几个小时。偶尔也有自责，但工作和生活少有值得期待的事，只有在游戏中，才能获得一丝成就感。&lt;/p&gt;
 &lt;p&gt;曾几何时，宋浩然也是个意气风发的少年。怀揣改变世界的梦想，他成为了大厂的产品经理。可如今，每天埋头于各种会议和文档，像只受惊的小白兔，疲于奔命，早已忘却初心。卡尼曼说，人有系统1和系统2，前者负责快反应，后者负责慢反应。而现在的宋浩然，似乎只剩下了系统1，只对刺激性的事物有所反应。工作日里，他不停地接受和完成任务；晚上和周末，除了吃饭睡觉，就是玩游戏、刷短视频。在等待游戏开局的间隙，他也会偶尔想起，曾经那个热爱读书与运动的自己，只是转瞬即逝，马上又得投入下一场战斗。&lt;/p&gt;
@@ -58,7 +58,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;假设你是微信小程序开发专家，现在指导零经验的开发者，完成小程序的代码，并给出一步步的指引。请输出以下案例的完整代码：创建一个简单的待办事项列表。开发一个简单的待办事项列表，允许用户添加新的待办事项、查看现有待办事项列表，并标记完成的事项。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;很快，AI 助手就给出了所有的代码，宋浩然按照指引将代码复制到对应的文件中。当所有代码完成，他独立完成了“待办事项”小程序。虽然功能简陋，界面朴素，但这是他的第一个完成项目。看着屏幕上“完成第一款小程序”的字样，宋浩然热泪盈眶。他想起了那个曾经对编程望而却步的自己，感慨万千。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58393/projects/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-habitjoy%E5%BE%AE%E4%B9%A0%E6%83%AF/featured.png" />
     </item>
     
   </channel>

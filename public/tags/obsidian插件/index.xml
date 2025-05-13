@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obsidian插件 on 学锋 xuefeng</title>
-    <link>http://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/</link>
+    <link>http://localhost:58393/tags/obsidian%E6%8F%92%E4%BB%B6/</link>
     <description>Recent content in Obsidian插件 on 学锋 xuefeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 学锋 xuefeng</copyright>
-    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/obsidian%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:58393/tags/obsidian%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Obsidian插件-声音转文字</title>
-      <link>http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</link>
+      <link>http://localhost:58393/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</guid>
+      <guid>http://localhost:58393/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Obsidian插件-声音转文字 
     &lt;div id=&#34;obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -92,8 +92,8 @@
     
 &lt;/h3&gt;
 &lt;p&gt;声音输出的效率比文字高，而且能保留比文字更多的信息，比如音色、情绪、现场等。但是声音的输出效率又文字低，对于受众，阅读比听力更快，而且文字更方便未来的分析、总结、复盘等。
-因此，我需要一个“声音+文字“结合的笔记系统。用声音来输入，支持存档，支持转译成文字。这样既完全地记录了个体某个时刻的生活状态，又方便于未来的分享与使用。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/featured.png" />
+因此，我需要一个&amp;quot;声音+文字&amp;quot;结合的笔记系统。用声音来输入，支持存档，支持转译成文字。这样既完全地记录了个体某个时刻的生活状态，又方便于未来的分享与使用。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:58393/projects/obsidian%E6%8F%92%E4%BB%B6-%E5%A3%B0%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97-/featured.png" />
     </item>
     
   </channel>
