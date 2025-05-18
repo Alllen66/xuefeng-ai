@@ -1,0 +1,11 @@
+{
+  "templater-obsidian:create-_templates/Publish to hugo.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "P"
+    }
+  ]
+}
