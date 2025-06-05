@@ -8,6 +8,6 @@
     "vercel-build": "git submodule update --init --recursive && hugo --gc --minify"
   },
   "dependencies": {
-    "hugo-bin": "^0.121.1"
+    "hugo-extended": "^0.121.1"
   }
 }

@@ -7,7 +7,151 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 学锋 xuefeng</copyright>
-    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jun 2025 10:44:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>电商转化率提升全攻略：方法论与实操技巧</title>
+      <link>http://localhost:1313/blog/%E7%94%B5%E5%95%86%E8%BD%AC%E5%8C%96%E7%8E%87%E6%8F%90%E5%8D%87%E5%85%A8%E6%94%BB%E7%95%A5-%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%93%8D%E6%8A%80%E5%B7%A7/</link>
+      <pubDate>Wed, 04 Jun 2025 10:44:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/%E7%94%B5%E5%95%86%E8%BD%AC%E5%8C%96%E7%8E%87%E6%8F%90%E5%8D%87%E5%85%A8%E6%94%BB%E7%95%A5-%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%93%8D%E6%8A%80%E5%B7%A7/</guid>
+      <description>&lt;p&gt;当你进入跨境电商这行业，转化率就变成了至关重要的目标。它是一个结果，却代表着很多：它代表成本，在流量成本越来越贵的当下，1.5%与1.3%意味着15%的成本差异；它代表竞争力，随着跨境从蓝海变红海，5%的差距可能都是致命的；它代表团队效率，从选品到建站到履约，每一个环节是否都做到了极致。人人都追求高转化率，但是不是所有人都知道，转化率具体意味着什么，有没有系统的方法论，是否有点石成金的小技巧等等。&lt;/p&gt;
+&lt;p&gt;如果你也有以上的困惑，不用担心，本文将从电商转化率的定义、转化率方法论、成功的实践等，全方位地介绍电商转化率的策略与技巧，让你不仅know-what，而且know-how。那么事不宜迟，让我们一起打开转化率大门，收获来自五湖四海的销售额吧！&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;指标篇-什么是电商转化率？ 
+    &lt;div id=&#34;%E6%8C%87%E6%A0%87%E7%AF%87-%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%B5%E5%95%86%E8%BD%AC%E5%8C%96%E7%8E%87&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%8C%87%E6%A0%87%E7%AF%87-%E4%BB%80%E4%B9%88%E6%98%AF%E7%94%B5%E5%95%86%E8%BD%AC%E5%8C%96%E7%8E%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;转化率的指标定义 
+    &lt;div id=&#34;%E8%BD%AC%E5%8C%96%E7%8E%87%E7%9A%84%E6%8C%87%E6%A0%87%E5%AE%9A%E4%B9%89&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%BD%AC%E5%8C%96%E7%8E%87%E7%9A%84%E6%8C%87%E6%A0%87%E5%AE%9A%E4%B9%89&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;电商转化率是指在一定的时间内，某个电商平台或网站上实现的销售与访客之间的比例。而具体到转化率的计算方法，不同的平台有不同的方法，一般来说会有以下3种转化率口径：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PV口径：电商转化率=订单数/网站访问量 x100%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;UV口径：电商转化率=完成交易的用户数/网站访客数 x100%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PV/UV口径：电商转化率=订单数/网站访客数 x100%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;例如，如果电商网站在一天中有1000个访问者，累计5000次访问量，其中有50个用户完成了购买，累计有100个订单。那么，该网站的转化率在不同的口径下分别如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Markdown&#34; data-lang=&#34;Markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PV口径：2%=100/5000 x100%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;UV口径：5%=50/1000 x100%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;PV/UV口径：10%=100/1000 x100%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;可以看得出来，不同口径下的电商转化率差别非常大，所以如果有人跟你讲，我的网站或者平台转化率很高。你一定得先问一句：你的口径是什么。一般来说，因为一个用户可能会有超过一次的访问或交易行为，因此PV口径是最小的，其次是UV口径，然后是PV/UV口径（PV口径&amp;lt;=UV口径&amp;lt;=PV/UV口径）。&lt;/p&gt;
+&lt;p&gt;但这并不代表所有的商家都应该使用PV口径，并不是说最严格的便是最好的。如果你更关注订单，或者流量质量，那可以采用PV口径；如果你更关注用户，那可以采用UV口径；如果客均单量，或者行为次数，那可以采用PV/UV口径。就拿当前知名的电商平台或网站而言，他们通常使用的转化率口径如下：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;公司代表&lt;/th&gt;
+          &lt;th&gt;口径&lt;/th&gt;
+          &lt;th&gt;说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Amazon&lt;/td&gt;
+          &lt;td&gt;PV口径&lt;/td&gt;
+          &lt;td&gt;Orders / all sessions&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Shopify&lt;/td&gt;
+          &lt;td&gt;PV口径&lt;/td&gt;
+          &lt;td&gt;Converted sessions / all sessions&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lazada&lt;br&gt;&lt;br&gt;Shopee&lt;/td&gt;
+          &lt;td&gt;UV口径&lt;/td&gt;
+          &lt;td&gt;Number of Buyers divided by number of Visitors during the selected period&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;淘宝&lt;/td&gt;
+          &lt;td&gt;UV口径&lt;/td&gt;
+          &lt;td&gt;产生购买行为的客户人数/ 所有到达店铺的访客人数&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;部分公司&lt;/td&gt;
+          &lt;td&gt;PV/UV口径&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;图1-1 主流电商平台的转化率口径&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/%E7%94%B5%E5%95%86%E8%BD%AC%E5%8C%96%E7%8E%87%E6%8F%90%E5%8D%87%E5%85%A8%E6%94%BB%E7%95%A5-%E6%96%B9%E6%B3%95%E8%AE%BA%E4%B8%8E%E5%AE%9E%E6%93%8D%E6%8A%80%E5%B7%A7/featured.png" />
+    </item>
+    
+    <item>
+      <title>从Obsidian到个人网站：我的&#34;完美&#34;发布工作流</title>
+      <link>http://localhost:1313/tutorial/%E4%BB%8Eobsidian%E5%88%B0%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-%E6%88%91%E7%9A%84-%E5%AE%8C%E7%BE%8E-%E5%8F%91%E5%B8%83%E5%B7%A5%E4%BD%9C%E6%B5%81/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tutorial/%E4%BB%8Eobsidian%E5%88%B0%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-%E6%88%91%E7%9A%84-%E5%AE%8C%E7%BE%8E-%E5%8F%91%E5%B8%83%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid>
+      <description>&lt;p&gt;&amp;ldquo;一次写作，随处发布&amp;rdquo;——这是内容创作者的终极梦想。而我，终于找到了一种既能享受 Obsidian 强大知识管理能力，又能轻松发布到个人网站的完美工作流。想知道我是如何做到的吗？&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;独立文件夹：避免混乱的第一步 
+    &lt;div id=&#34;%E7%8B%AC%E7%AB%8B%E6%96%87%E4%BB%B6%E5%A4%B9%E9%81%BF%E5%85%8D%E6%B7%B7%E4%B9%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E7%8B%AC%E7%AB%8B%E6%96%87%E4%BB%B6%E5%A4%B9%E9%81%BF%E5%85%8D%E6%B7%B7%E4%B9%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;首先，需要明确一个原则：我的博客内容文件夹与 Obsidian 文件夹是相互独立的。此前，我曾尝试将两者放在同一个大文件夹下，但发现这样容易导致混乱。也尝试过通过脚本实现文件夹同步，使两者成为镜像，但在实际操作中，这种方式会对 Hugo 的发布流程产生诸多 bug。因此，为了避免相互干扰，我最终选择将两者分别管理于不同的文件夹中。
+
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;%E7%8B%AC%E7%AB%8B%E6%96%87%E4%BB%B6%E5%A4%B9.svg&#34; alt=&#34;独立文件夹&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;在此基础上，我的整体发布流程可以理解为：在 Obsidian 中完成文档撰写后，需要将文档从 Obsidian 文件夹移动到 GitHub&amp;gt;Content 文件夹。为简化操作，我编写了自动化代码，实现了这一过程的自动迁移。&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;三步走：从笔记到网站的无缝转换 
+    &lt;div id=&#34;%E4%B8%89%E6%AD%A5%E8%B5%B0%E4%BB%8E%E7%AC%94%E8%AE%B0%E5%88%B0%E7%BD%91%E7%AB%99%E7%9A%84%E6%97%A0%E7%BC%9D%E8%BD%AC%E6%8D%A2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%89%E6%AD%A5%E8%B5%B0%E4%BB%8E%E7%AC%94%E8%AE%B0%E5%88%B0%E7%BD%91%E7%AB%99%E7%9A%84%E6%97%A0%E7%BC%9D%E8%BD%AC%E6%8D%A2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;具体的发布流程分为三个部分。第一步，是为新建的博客内容添加属性标签页头。我专门创建了一个博客模板，每当需要发布新内容时，便通过该模板为文档添加所需的页头标签和属性。第二步，在文章完成后，我会运行一个由 Cursor 编写的自动化程序。该程序主要实现两个功能：一是将 Obsidian 笔记中使用的图片素材转换为网页所需的格式（因两者格式不同）；二是将文档从 Obsidian 文件夹移动到 Hugo 文件夹，即我的 Github 文件夹。第三步，则是通过 Github 进行推送。具体如下：
+
+    &lt;figure&gt;
+      &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;%E5%8D%9A%E5%AE%A2%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B.svg&#34; alt=&#34;博客发布流程&#34; /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;第一步，添加 yaml 页头 
+    &lt;div id=&#34;%E7%AC%AC%E4%B8%80%E6%AD%A5%E6%B7%BB%E5%8A%A0-yaml-%E9%A1%B5%E5%A4%B4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E7%AC%AC%E4%B8%80%E6%AD%A5%E6%B7%BB%E5%8A%A0-yaml-%E9%A1%B5%E5%A4%B4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;为了提升这一步的效率，你可以安装 Templater 插件，添加一个 blog template，把 yaml 页头添加到模版里。以下是 blog template 参考：&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tutorial/%E4%BB%8Eobsidian%E5%88%B0%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-%E6%88%91%E7%9A%84-%E5%AE%8C%E7%BE%8E-%E5%8F%91%E5%B8%83%E5%B7%A5%E4%BD%9C%E6%B5%81/featured.png" />
+    </item>
     
     <item>
       <title>抖音美食一键变私厨：我用AI给家人写了个下厨房</title>
